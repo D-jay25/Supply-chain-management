@@ -3,12 +3,9 @@
 > **An End-to-End Data Analytics Project using Power BI for GlobalLogiX**  
 > 🧠 Built to assess and mitigate supply chain risks using DAX, Power Query, KPI metrics, and interactive visuals
 
----
 ## 🧾 Project Overview
 
 This Power BI project simulates a real-world challenge from **GlobalLogiX**, a multinational logistics and supply chain company. As part of a **Power BI skill test**, this dashboard focuses on solving key supply chain problems like supplier risk assessment, delayed shipments, inventory inefficiencies, and return analysis.
-
----
 
 ## 🎯 Objectives
 
@@ -17,8 +14,6 @@ This Power BI project simulates a real-world challenge from **GlobalLogiX**, a m
 - 📊 Build advanced visuals: heatmaps, drill-throughs, and forecasts
 - 🧮 Create DAX measures for dynamic KPIs and composite scores
 - 📈 Enable decision-makers to interactively filter and slice data
-
----
 
 ## 🗃️ Datasets Used
 
@@ -30,16 +25,10 @@ This Power BI project simulates a real-world challenge from **GlobalLogiX**, a m
 | `Warehouses`     | Inventory levels, replenishment status, thresholds                      |
 | `Returns`        | Return reasons, costs, frequencies, shipment links                      |
 
----
-
 ## 📊 Key Visualizations & Scenarios
-
-### 🔰 Beginner-Level Dashboards
 - **High-Risk Suppliers Table**: Risk > 80, Reliability < 3
 - **Shipment Delays Line Chart**: Last 6 months of delay trends
 - **Inventory Bar Chart**: Stock per warehouse with conditional highlights
-
-### 🔄 Intermediate-Level Dashboards
 - **Return Reason Pie Chart**: % distribution of top return causes
 - **Region-wise On-Time Delivery**: Stacked column (On-time vs Delayed)
 - **Supplier Performance Matrix**: Filter by region, reliability, risk
@@ -48,8 +37,6 @@ This Power BI project simulates a real-world challenge from **GlobalLogiX**, a m
   - % Late Shipments
   - Avg. Supplier Risk Score
 - **Demand Forecast Chart**: Based on historical orders
-
-### 🔬 Advanced-Level Analysis
 - **Composite Supply Chain Risk Score**:
   - Supplier Risk (40%)
   - Shipment Delays (30%)
@@ -69,11 +56,3 @@ This Power BI project simulates a real-world challenge from **GlobalLogiX**, a m
 | **Visuals**       | Line, Bar, Pie, Matrix, Forecast, Heatmap |
 | **UX Features**   | Slicers, Drill-throughs, Conditional Formatting, Tooltips |
 
----
-
-## 📁 Folder Structure
-
-```bash
-📁 Supply-Chain-Risk-PowerBI/
-├── 📊 Supply Chain Risk Management.pbix
-├── 📄 README.md
